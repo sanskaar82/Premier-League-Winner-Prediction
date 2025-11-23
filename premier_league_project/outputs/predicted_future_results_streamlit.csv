@@ -1,0 +1,9 @@
+Team,members,foreign_players,mean_age,MOY,rank,points,Goal_Diff,Wins,Draws,Losses,Goals_For,Goals_Against,Win_Probability,Normalized_Prob
+Manchester City,45,29,27.2,0.45,1,90,55,29,5,4,95,40,0.525,0.5303030303030303
+Arsenal,42,27,26.5,0.37,3,80,40,25,7,6,84,44,0.24,0.24242424242424243
+Liverpool,44,28,26.9,0.38,2,84,46,26,6,6,88,42,0.225,0.2272727272727273
+Tottenham,40,25,25.8,0.32,4,69,22,20,9,9,70,48,0.0,0.0
+Manchester United,43,26,27.0,0.34,5,65,18,18,11,9,65,50,0.0,0.0
+Newcastle,39,23,26.3,0.28,6,63,15,17,12,9,62,47,0.0,0.0
+Chelsea,41,25,26.7,0.3,7,60,10,16,12,10,61,51,0.0,0.0
+Aston Villa,38,21,25.9,0.27,8,59,8,15,14,9,58,50,0.0,0.0
